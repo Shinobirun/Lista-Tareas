@@ -9,20 +9,20 @@ export const TASKS:Task[] = [
 },
 
 {
-  id:1,
+  id:2,
   text:"Llamar médico",
   day: "Agosto 9 a las 11:00 ",
   reminder: true
 },
 {
-  id:1,
+  id:3,
   text:"Investigar Firebase",
   day: "Agosto 11 a las 14:00 ",
   reminder: true
 },
 
 {
-  id:1,
+  id:4,
   text:"Buscar a Meli",
   day: "Agosto 9 a las 20:00 ",
   reminder: true
